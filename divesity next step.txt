@@ -1,0 +1,8 @@
+1. FHL Dump copy paste to demand diversity.
+2. Res Dump worksheet base data eh = ek base data new joinee status onboard.
+3. pivot table we have to automated newly from BASE worksheet, nother one will be Resource demp
+4. ASE Status we have to create from demand diversity A-H
+I-M will be auto genarate 
+IF emp id will be there in I column L column(PMO Status) will be fullfilled
+IF K column DEMAND = YES then L Column(PMO Status) will be open demand
+IF emp id is NA and Demand is NA then L Column(PMO Status) will be FHL
